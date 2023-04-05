@@ -1,0 +1,22 @@
+{
+  "color": {
+    "white": {
+      "value": "#fff",
+      "type": "color"
+    },
+    "black": {
+      "value": "#000",
+      "type": "color"
+    },
+    "primary": {
+      "value": "#f0f",
+      "type": "color"
+    }
+  },
+  "tokenSetOrder": {
+    "0": {
+      "value": "global",
+      "type": "other"
+    }
+  }
+}
