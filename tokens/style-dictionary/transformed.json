@@ -11,6 +11,16 @@
     "primary": {
       "value": "#f0f",
       "type": "color"
+    },
+    "button": {
+      "bg": {
+        "value": "#f0f",
+        "type": "color"
+      },
+      "fg": {
+        "value": "#fff",
+        "type": "color"
+      }
     }
   },
   "tokenSetOrder": {
