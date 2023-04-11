@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Apr 2023 05:41:28 GMT
+ * Generated on Tue, 11 Apr 2023 14:35:39 GMT
  */
 
 export default tokens;
@@ -26,10 +26,16 @@ declare const tokens: {
     "white": DesignToken,
     "black": DesignToken,
     "primary": DesignToken,
-    "button": {
+    "card": {
       "bg": DesignToken,
       "fg": DesignToken
     }
+  },
+  "spacing": {
+    "small": DesignToken
+  },
+  "sizing": {
+    "large": DesignToken
   },
   "tokenSetOrder": {
     "0": DesignToken

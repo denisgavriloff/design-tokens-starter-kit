@@ -12,7 +12,7 @@
       "value": "#f0f",
       "type": "color"
     },
-    "button": {
+    "card": {
       "bg": {
         "value": "#f0f",
         "type": "color"
@@ -21,6 +21,18 @@
         "value": "#fff",
         "type": "color"
       }
+    }
+  },
+  "spacing": {
+    "small": {
+      "value": "4px",
+      "type": "spacing"
+    }
+  },
+  "sizing": {
+    "large": {
+      "value": "256px",
+      "type": "sizing"
     }
   },
   "tokenSetOrder": {

@@ -1,11 +1,13 @@
 /**
  * Do not edit directly
- * Generated on Wed, 05 Apr 2023 05:41:28 GMT
+ * Generated on Tue, 11 Apr 2023 14:35:39 GMT
  */
 
 export const colorWhite = "#fff";
 export const colorBlack = "#000";
 export const colorPrimary = "#f0f";
-export const colorButtonBg = "#f0f";
-export const colorButtonFg = "#fff";
+export const colorCardBg = "#f0f";
+export const colorCardFg = "#fff";
+export const spacingSmall = "4px";
+export const sizingLarge = "256px";
 export const tokenSetOrder0 = "global";

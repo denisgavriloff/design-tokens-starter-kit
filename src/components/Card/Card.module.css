@@ -1,0 +1,20 @@
+.card {
+  padding: var(--spacing-small);
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  background-color: var(--color-card-bg);
+}
+
+.title {
+  color: var(--color-card-fg);
+}
+
+.thumbnail {
+  max-width: var(--sizing-large);
+}
+
+.description {
+  color: var(--color-card-fg);
+}
