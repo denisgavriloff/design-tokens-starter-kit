@@ -5,18 +5,18 @@
 }
 
 .header {
-  background-color: #4caf50;
-  color: white;
-  padding: 10px;
+  background-color: var(--color-header-bg);
+  color: var(--color-header-fg);
+  padding: var(--spacing-medium);
 }
 
 .main {
   flex-grow: 1;
-  padding: 10px;
+  padding: var(--spacing-medium);
 }
 
 .footer {
-  background-color: #4caf50;
-  color: white;
-  padding: 10px;
+  background-color: var(--color-footer-bg);
+  color: var(--color-footer-fg);
+  padding: var(--spacing-medium);
 }

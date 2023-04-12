@@ -21,11 +21,39 @@
         "value": "#fff",
         "type": "color"
       }
+    },
+    "header": {
+      "bg": {
+        "value": "#4caf50",
+        "type": "color"
+      },
+      "fg": {
+        "value": "#fff",
+        "type": "color"
+      }
+    },
+    "footer": {
+      "bg": {
+        "value": "#4caf50",
+        "type": "color"
+      },
+      "fg": {
+        "value": "#fff",
+        "type": "color"
+      }
+    },
+    "green": {
+      "value": "#4caf50",
+      "type": "color"
     }
   },
   "spacing": {
     "small": {
       "value": "4px",
+      "type": "spacing"
+    },
+    "medium": {
+      "value": "12px",
       "type": "spacing"
     }
   },
