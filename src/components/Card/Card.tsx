@@ -1,16 +1,17 @@
 import styles from './Card.module.css';
 
 export interface CardProps {
-  title: string;
-  thumbnail: string;
   description: string;
+  imgAlt: string;
+  imgSrc: string;
+  title: string;
 }
 
-export const Card = ({ title, thumbnail, description }: CardProps) => {
+export const Card = ({ description, imgAlt, imgSrc, title }: CardProps) => {
   return (
     <div className={styles.card}>
       <h1 className={styles.title}>{title}</h1>
-      <img src={thumbnail} className={styles.thumbnail} />
+      <img src={imgSrc} alt={imgAlt} className={styles.thumbnail} />
       <p className={styles.description}>{description}</p>
     </div>
   );
