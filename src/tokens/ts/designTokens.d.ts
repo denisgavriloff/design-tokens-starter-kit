@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 12 Apr 2023 09:12:26 GMT
+ * Generated on Wed, 12 Apr 2023 10:02:35 GMT
  */
 
 export default tokens;
@@ -45,7 +45,9 @@ declare const tokens: {
     "medium": DesignToken
   },
   "sizing": {
-    "large": DesignToken
+    "large": DesignToken,
+    "small": DesignToken,
+    "medium": DesignToken
   },
   "tokenSetOrder": {
     "0": DesignToken

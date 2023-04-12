@@ -8,6 +8,13 @@
   background-color: var(--color-header-bg);
   color: var(--color-header-fg);
   padding: var(--spacing-medium);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  max-width: var(--sizing-small);
 }
 
 .main {
@@ -19,4 +26,7 @@
   background-color: var(--color-footer-bg);
   color: var(--color-footer-fg);
   padding: var(--spacing-medium);
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }

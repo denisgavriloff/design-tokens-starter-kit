@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 12 Apr 2023 09:12:26 GMT
+ * Generated on Wed, 12 Apr 2023 10:02:35 GMT
  */
 
 :root {
@@ -17,5 +17,7 @@
   --spacing-small: 4px;
   --spacing-medium: 12px;
   --sizing-large: 256px;
+  --sizing-small: 128px;
+  --sizing-medium: 192px;
   --token-set-order-0: global;
 }

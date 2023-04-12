@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 12 Apr 2023 09:12:26 GMT
+ * Generated on Wed, 12 Apr 2023 10:02:35 GMT
  */
 
 export const colorWhite = "#fff";
@@ -16,4 +16,6 @@ export const colorGreen = "#4caf50";
 export const spacingSmall = "4px";
 export const spacingMedium = "12px";
 export const sizingLarge = "256px";
+export const sizingSmall = "128px";
+export const sizingMedium = "192px";
 export const tokenSetOrder0 = "global";
