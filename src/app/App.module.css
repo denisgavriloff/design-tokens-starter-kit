@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+}
+
+.header {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+}
+
+.main {
+  flex-grow: 1;
+  padding: 10px;
+}
+
+.footer {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px;
+}

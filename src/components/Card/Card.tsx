@@ -1,12 +1,12 @@
 import styles from './Card.module.css';
 
-type TCardProps = {
+export interface CardProps {
   title: string;
   thumbnail: string;
   description: string;
-};
+}
 
-export const Card = ({ title, thumbnail, description }: TCardProps) => {
+export const Card = ({ title, thumbnail, description }: CardProps) => {
   return (
     <div className={styles.card}>
       <h1 className={styles.title}>{title}</h1>
