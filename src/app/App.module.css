@@ -20,6 +20,15 @@
 .main {
   flex-grow: 1;
   padding: var(--spacing-medium);
+  display: flex;
+  flex-direction: column;
+}
+
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: var(--spacing-medium);
+  width: 100%;
 }
 
 .footer {

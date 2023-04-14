@@ -12,7 +12,9 @@
 }
 
 .thumbnail {
-  max-width: var(--sizing-large);
+  width: var(--sizing-large);
+  height: 192px;
+  object-fit: cover;
 }
 
 .description {
