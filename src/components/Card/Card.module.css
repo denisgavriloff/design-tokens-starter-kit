@@ -9,9 +9,11 @@
 
 .title {
   color: var(--color-card-fg);
+  margin-bottom: var(--spacing-small);
 }
 
 .thumbnail {
+  margin-bottom: var(--spacing-small);
   width: var(--sizing-large);
   height: 192px;
   object-fit: cover;
