@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 12 Apr 2023 10:02:35 GMT
+ * Generated on Sat, 15 Apr 2023 13:16:14 GMT
  */
 
 export default tokens;
@@ -38,7 +38,11 @@ declare const tokens: {
       "bg": DesignToken,
       "fg": DesignToken
     },
-    "green": DesignToken
+    "green": DesignToken,
+    "main-section": {
+      "bg": DesignToken,
+      "fg": DesignToken
+    }
   },
   "spacing": {
     "small": DesignToken,

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 12 Apr 2023 10:02:35 GMT
+ * Generated on Sat, 15 Apr 2023 13:16:14 GMT
  */
 
 :root {
@@ -14,6 +14,8 @@
   --color-footer-bg: #4caf50;
   --color-footer-fg: #ffffff;
   --color-green: #4caf50;
+  --color-main-section-bg: #000000;
+  --color-main-section-fg: #ffffff;
   --spacing-small: 4px;
   --spacing-medium: 12px;
   --sizing-large: 256px;

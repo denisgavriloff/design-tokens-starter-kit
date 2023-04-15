@@ -20,8 +20,14 @@
 .main {
   flex-grow: 1;
   padding: var(--spacing-medium);
+  background-color: var(--color-main-section-bg);
+  color: var(--color-main-section-fg);
   display: flex;
   flex-direction: column;
+}
+
+.title {
+  margin-bottom: var(--spacing-medium);
 }
 
 .cards {

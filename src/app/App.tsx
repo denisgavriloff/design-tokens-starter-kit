@@ -9,11 +9,11 @@ const App = () => {
     <div className={styles.app}>
       <header className={styles.header}>
         <img src={arvatoSystemsLogo} alt="Arvato Systems logo" className={styles.logo} />
-        <h1 className={styles.appTitle}>Design Tokens Demo</h1>
+        <h1>Design Tokens Demo</h1>
         <img src={weyWeyWebLogo} alt="Wey Wey Web logo" className={styles.logo} />
       </header>
       <main className={styles.main}>
-        <h2>A Visual Recap of Malaga and "Wey Wey Web" conference</h2>
+        <h2 className={styles.title}>A Visual Recap of Malaga and "Wey Wey Web" conference</h2>
         <div className={styles.cards}>
           {mockCardsData.map((card) => (
             <Card

@@ -45,6 +45,16 @@
     "green": {
       "value": "#4caf50",
       "type": "color"
+    },
+    "main-section": {
+      "bg": {
+        "value": "#000",
+        "type": "color"
+      },
+      "fg": {
+        "value": "#fff",
+        "type": "color"
+      }
     }
   },
   "spacing": {
