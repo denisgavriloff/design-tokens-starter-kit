@@ -1,5 +1,7 @@
 # Design Token Starter Kit
 
+![image](https://user-images.githubusercontent.com/61278217/234781689-899e28b0-35e4-4ecb-8ed7-861a9a7e6b87.png)
+
 This is a starter kit for design tokens, with integration for Figma and Tokens Studio. Design tokens are a way to define and manage the visual design elements of a product or brand, such as colors, typography, and spacing. By defining these elements as tokens, they can be easily shared and reused across design and development teams, ensuring consistency and coherence in the final product.
 
 ## Installation
