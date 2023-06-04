@@ -67,6 +67,18 @@
     "dark-blue": {
       "value": "#0e1731",
       "type": "color"
+    },
+    "blue": {
+      "value": "#0068a9",
+      "type": "color"
+    },
+    "light-gray": {
+      "value": "#f5f5f5",
+      "type": "color"
+    },
+    "dark-gray": {
+      "value": "#333333",
+      "type": "color"
     }
   },
   "spacing": {

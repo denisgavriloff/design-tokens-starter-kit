@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 04 Jun 2023 19:36:46 GMT
+ * Generated on Sun, 04 Jun 2023 19:57:02 GMT
  */
 
 export const colorWhite = "#fff";
@@ -18,6 +18,9 @@ export const colorMainSectionFg = "#000";
 export const colorHaze = "#d0d5e4";
 export const colorRed = "#f00";
 export const colorDarkBlue = "#0e1731";
+export const colorBlue = "#0068a9";
+export const colorLightGray = "#f5f5f5";
+export const colorDarkGray = "#333333";
 export const spacingSmall = "4px";
 export const spacingMedium = "12px";
 export const sizingLarge = "284px";

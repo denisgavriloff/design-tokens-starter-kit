@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 04 Jun 2023 19:36:46 GMT
+ * Generated on Sun, 04 Jun 2023 19:57:02 GMT
  */
 
 :root {
@@ -19,6 +19,9 @@
   --color-haze: #d0d5e4;
   --color-red: #ff0000;
   --color-dark-blue: #0e1731;
+  --color-blue: #0068a9;
+  --color-light-gray: #f5f5f5;
+  --color-dark-gray: #333333;
   --spacing-small: 4px;
   --spacing-medium: 12px;
   --sizing-large: 284px;
