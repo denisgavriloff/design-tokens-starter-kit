@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 04 Jun 2023 19:34:17 GMT
+ * Generated on Sun, 04 Jun 2023 19:36:46 GMT
  */
 
 :root {
@@ -26,6 +26,6 @@
   --sizing-medium: 192px;
   --font-family-sans-serif: sans-serif;
   --font-family-open-sans: 'Open Sans';
-  --font-family-body: 'Open Sans';
+  --font-family-body: sans-serif;
   --token-set-order-0: global;
 }

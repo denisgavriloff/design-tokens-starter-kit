@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 04 Jun 2023 19:34:17 GMT
+ * Generated on Sun, 04 Jun 2023 19:36:46 GMT
  */
 
 export const colorWhite = "#fff";
@@ -25,5 +25,5 @@ export const sizingSmall = "128px";
 export const sizingMedium = "192px";
 export const fontFamilySansSerif = "sans-serif";
 export const fontFamilyOpenSans = "'Open Sans'";
-export const fontFamilyBody = "'Open Sans'";
+export const fontFamilyBody = "sans-serif";
 export const tokenSetOrder0 = "global";

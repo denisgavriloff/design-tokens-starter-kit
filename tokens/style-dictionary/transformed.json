@@ -103,7 +103,7 @@
       "type": "fontFamilies"
     },
     "body": {
-      "value": "'Open Sans'",
+      "value": "sans-serif",
       "type": "fontFamilies"
     }
   },
