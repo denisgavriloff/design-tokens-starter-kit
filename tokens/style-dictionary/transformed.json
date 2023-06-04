@@ -24,7 +24,7 @@
     },
     "header": {
       "bg": {
-        "value": "#00f809",
+        "value": "#4caf50",
         "type": "color"
       },
       "fg": {
@@ -34,7 +34,7 @@
     },
     "footer": {
       "bg": {
-        "value": "#00f809",
+        "value": "#4caf50",
         "type": "color"
       },
       "fg": {
@@ -43,7 +43,7 @@
       }
     },
     "green": {
-      "value": "#00f809",
+      "value": "#4caf50",
       "type": "color"
     },
     "main-section": {
@@ -103,7 +103,7 @@
       "type": "fontFamilies"
     },
     "body": {
-      "value": "sans-serif",
+      "value": "'Open Sans'",
       "type": "fontFamilies"
     }
   },

@@ -28,6 +28,7 @@
 
 .title {
   margin-bottom: var(--spacing-medium);
+  text-align: center;
 }
 
 .cards {
