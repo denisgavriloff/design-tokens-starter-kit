@@ -24,7 +24,7 @@
     },
     "header": {
       "bg": {
-        "value": "#4caf50",
+        "value": "#00f809",
         "type": "color"
       },
       "fg": {
@@ -34,7 +34,7 @@
     },
     "footer": {
       "bg": {
-        "value": "#4caf50",
+        "value": "#00f809",
         "type": "color"
       },
       "fg": {
@@ -43,7 +43,7 @@
       }
     },
     "green": {
-      "value": "#4caf50",
+      "value": "#00f809",
       "type": "color"
     },
     "main-section": {
@@ -52,7 +52,7 @@
         "type": "color"
       },
       "fg": {
-        "value": "#0e1731",
+        "value": "#000",
         "type": "color"
       }
     },
@@ -91,6 +91,20 @@
     "medium": {
       "value": "192px",
       "type": "sizing"
+    }
+  },
+  "font-family": {
+    "sans-serif": {
+      "value": "sans-serif",
+      "type": "fontFamilies"
+    },
+    "open-sans": {
+      "value": "'Open Sans'",
+      "type": "fontFamilies"
+    },
+    "body": {
+      "value": "sans-serif",
+      "type": "fontFamilies"
     }
   },
   "tokenSetOrder": {

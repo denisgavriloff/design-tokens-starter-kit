@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 30 May 2023 18:55:24 GMT
+ * Generated on Sun, 04 Jun 2023 19:28:45 GMT
  */
 
 export default tokens;
@@ -55,6 +55,11 @@ declare const tokens: {
     "large": DesignToken,
     "small": DesignToken,
     "medium": DesignToken
+  },
+  "font-family": {
+    "sans-serif": DesignToken,
+    "open-sans": DesignToken,
+    "body": DesignToken
   },
   "tokenSetOrder": {
     "0": DesignToken

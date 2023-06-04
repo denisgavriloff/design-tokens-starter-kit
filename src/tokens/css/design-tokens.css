@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Tue, 30 May 2023 18:55:24 GMT
+ * Generated on Sun, 04 Jun 2023 19:28:45 GMT
  */
 
 :root {
@@ -9,13 +9,13 @@
   --color-primary: #ff00ff;
   --color-card-bg: #ff00ff;
   --color-card-fg: #ffffff;
-  --color-header-bg: #4caf50;
+  --color-header-bg: #00f809;
   --color-header-fg: #ffffff;
-  --color-footer-bg: #4caf50;
+  --color-footer-bg: #00f809;
   --color-footer-fg: #ffffff;
-  --color-green: #4caf50;
+  --color-green: #00f809;
   --color-main-section-bg: #d0d5e4;
-  --color-main-section-fg: #0e1731;
+  --color-main-section-fg: #000000;
   --color-haze: #d0d5e4;
   --color-red: #ff0000;
   --color-dark-blue: #0e1731;
@@ -24,5 +24,8 @@
   --sizing-large: 284px;
   --sizing-small: 128px;
   --sizing-medium: 192px;
+  --font-family-sans-serif: sans-serif;
+  --font-family-open-sans: 'Open Sans';
+  --font-family-body: sans-serif;
   --token-set-order-0: global;
 }
