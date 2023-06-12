@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 08 Jun 2023 12:01:31 GMT
+ * Generated on Mon, 12 Jun 2023 11:37:37 GMT
  */
 
 export const colorWhite = "#fff";
@@ -14,7 +14,7 @@ export const colorFooterBg = "#4caf50";
 export const colorFooterFg = "#fff";
 export const colorGreen = "#4caf50";
 export const colorMainSectionBg = "#d0d5e4";
-export const colorMainSectionFg = "#000";
+export const colorMainSectionFg = "#0e1731";
 export const colorHaze = "#d0d5e4";
 export const colorRed = "#f00";
 export const colorDarkBlue = "#0e1731";
